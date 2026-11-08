@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Futuristic voice-first AI assistant for Android with real-time conversation, offline device controls, Telugu and multi-language intelligence, addressing you as Boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
